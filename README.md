@@ -3,5 +3,5 @@
 
 This is text
 
-## This is a list
-- Item 1
+## This is a list  
+Stefan Dimitrov 
